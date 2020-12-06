@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localizations:
+    git:
+      url: https://github.com/hussenIbrahim/flutter_localizations.git
 
 dev_dependencies:
   flutter_test:
